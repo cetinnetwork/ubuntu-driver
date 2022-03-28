@@ -1,0 +1,12 @@
+en-core-web-sm
+en-ner-bc5cdr-md
+flash
+future
+jupyterlab
+setuptools
+spacy
+pandas
+pillow
+pip
+pytesseract
+wheel
